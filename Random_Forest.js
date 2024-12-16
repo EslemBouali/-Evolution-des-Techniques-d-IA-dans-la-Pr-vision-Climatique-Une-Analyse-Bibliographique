@@ -1,6 +1,6 @@
 // Charger une image Sentinel-2
 var image = ee.ImageCollection('COPERNICUS/S2')
-  .filterDate('2024-01-01', '2024-12-31')
+  .filterDate('2023-01-01', '2023-12-31')
   .filterBounds(ee.Geometry.Point([10, 35]))
   .median()
   .clip(roi);
