@@ -15,13 +15,13 @@ Chaque méthode est appliquée à des données climatiques pour évaluer son pot
 ### 1. **Random Forest**
 - Implémentation sur Google Earth Engine (GEE).
 - Utilisé pour la classification des données satellitaires (par exemple, occupation du sol, évaluation des risques climatiques).
-- Environnement : Google Earth Engine (JavaScript API).
+- Environnement : Google Earth Engine (JavaScript ).
 - Lien du code : [Script Random Forest](https://github.com/EslemBouali/-volution-des-Techniques-d-IA-dans-la-Pr-vision-Climatique-Une-Analyse-Bibliographique/blob/Master/Random_Forest.js)
 
 ### 2. **SVM (Support Vector Machine)**
 - Implémentation sur Google Earth Engine (GEE).
 - Idéal pour les classifications climatiques binaires ou multiclasses.
-- Environnement : Google Earth Engine (JavaScript API).
+- Environnement : Google Earth Engine (JavaScript ).
 - Lien du code : [Script SVM](https://github.com/EslemBouali/-volution-des-Techniques-d-IA-dans-la-Pr-vision-Climatique-Une-Analyse-Bibliographique/blob/Master/SVM.js)
 
 ### 3. **CNN (Convolutional Neural Network)**
